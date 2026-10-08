@@ -100,17 +100,21 @@ export MEETING_MODEL="Qwen/Qwen2.5-3B-Instruct"
 # 📸 Demo
 
 <img width="3840" height="1844" alt="image" src="https://github.com/user-attachments/assets/27222b0e-6a04-49da-9c3f-86b5553b4ad5" />
+
 <img width="3840" height="1843" alt="image" src="https://github.com/user-attachments/assets/2bf48959-80ce-45e7-a106-c7c92e64c03a" />
 
 
-* <img width="3840" height="1858" alt="image" src="https://github.com/user-attachments/assets/d037d77b-eafb-4aca-aa2c-92272f80ab06" />
-: Summary tab
-* <img width="3840" height="1834" alt="image" src="https://github.com/user-attachments/assets/2e122e6e-a4c1-48e0-895f-34ddd0cd1ff2" />
-: Decisions & Tasks tab
-* <img width="3840" height="1837" alt="image" src="https://github.com/user-attachments/assets/d2aa511e-6616-4260-91bd-72ba8d11b724" />
-: Ask the meeting tab
-* <img width="3811" height="1800" alt="image" src="https://github.com/user-attachments/assets/28a7123a-2b97-44cf-9a14-4f0da2d68ded" />
-: JSON download
+<img width="3840" height="1858" alt="image" src="https://github.com/user-attachments/assets/d037d77b-eafb-4aca-aa2c-92272f80ab06" />
+Summary tab
+
+<img width="3840" height="1834" alt="image" src="https://github.com/user-attachments/assets/2e122e6e-a4c1-48e0-895f-34ddd0cd1ff2" />
+Decisions & Tasks tab
+
+<img width="3840" height="1837" alt="image" src="https://github.com/user-attachments/assets/d2aa511e-6616-4260-91bd-72ba8d11b724" />
+Ask the meeting tab
+
+<img width="3811" height="1800" alt="image" src="https://github.com/user-attachments/assets/28a7123a-2b97-44cf-9a14-4f0da2d68ded" />
+JSON download
 
 ---
 
