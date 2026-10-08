@@ -1,0 +1,18 @@
+Weekly Product Sync - Project Orion Mobile App
+Date: March 12 | Attendees: Sara (Product Manager), Omar (Backend Lead), Lina (Designer), Karim (QA)
+
+Sara: Good morning everyone. Let's start with the launch date. Marketing wants to launch on April 20, but I'm worried about the payment feature.
+Omar: The payment integration is about 70 percent done. The main blocker is the sandbox access from the payment provider, which we still don't have.
+Sara: Okay. Omar, please follow up with the provider and get the sandbox credentials by this Friday.
+Omar: Sure, I'll email them today and escalate if there's no reply by Wednesday.
+Lina: On the design side, the onboarding screens are finished. I still need to finalize the dark mode for the settings page.
+Sara: Great. Lina, please deliver the dark mode designs to the dev team by March 18.
+Lina: That works for me.
+Karim: From the QA side, we found 14 open bugs, 3 of them critical, mostly in the login flow. I suggest we freeze new features until the critical bugs are fixed.
+Sara: I agree. Decision: we freeze all new features starting today until the three critical login bugs are resolved.
+Omar: My team can fix the login bugs by next Tuesday, March 19.
+Karim: Then I'll run a full regression test on March 21 and share the report with everyone.
+Sara: Perfect. Another decision: we are moving the launch date from April 20 to May 4 to leave enough time for testing.
+Lina: That also gives me time to polish the animations.
+Sara: Last item, the budget. We approved an extra 2,000 dollars for cloud testing devices. I will send the purchase request to finance tomorrow.
+Sara: Thanks everyone. Next sync is next Tuesday at 10 AM.
